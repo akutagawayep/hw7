@@ -1,0 +1,12 @@
+@font-face {
+    font-family:"Raleway heading ";
+    src: url(../fonts/Raleway-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "Raleway text";
+    src: url(../fonts/Raleway-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "Roboto belowhead";
+    src: url(../fonts/Roboto-Medium.ttf);
+}
